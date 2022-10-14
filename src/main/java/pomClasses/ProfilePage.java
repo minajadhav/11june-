@@ -83,7 +83,6 @@ public class ProfilePage extends Util1{
 
 
 			public int getAddressCount() {
-				
 				return addressElementList.size();
 			}
 			
